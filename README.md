@@ -2,7 +2,7 @@ Project Overview: Optimizing Revenue Leakage & Profitability in the Hospitality 
 Team Members: Harshwardhan
 Project Theme: Revenue Optimization in the Hotel Industry
 
-Objective:
+Objective: 
 To analyze performance data of hotel properties and identify ways to reduce revenue leakage while improving profitability and guest satisfaction.
 
 Key Segments Analyzed:
